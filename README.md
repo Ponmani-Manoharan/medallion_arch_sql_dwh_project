@@ -108,7 +108,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 👋 Hi there!
 
-I’m **Ponmani**, an aspiring data professional currently building my portfolio and sharpening my skills in data and IT.
+I’m **Ponmani**, an data professional currently building my portfolio and sharpening my skills in data and IT.
 
 This project was created by following tutorials from **[Data With Baraa](https://www.youtube.com/@DataWithBaraa)** *(Baraa Khatib Salkini)*, whose content has been incredibly helpful in guiding my learning.  
 **Full credit to Baraa** for the original walkthroughs and inspiration — I followed along and worked hands-on to build and customize the project myself.
